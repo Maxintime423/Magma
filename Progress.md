@@ -1,2 +1,2 @@
 # Current Progress
-- I am starting. 
+- I have a plan, check ***idea/planA.md***
